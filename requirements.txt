@@ -1,0 +1,7 @@
+flask
+pydub
+whisper
+openai-whisper
+torch
+ffmpeg-python
+numpy
